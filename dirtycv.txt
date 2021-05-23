@@ -1,0 +1,85 @@
+CV 1
+Surname:Newby
+First Name:Ioanna
+Address:Room 2 Flat 19 Global Community Shared Pritchatts Road Edgbaston Birmingham B15 2QX
+Qualification:Degree in Computer Science
+Position:Programmer
+Experience:1
+Position:Computer Programmer
+Experience:1
+eMail:ian376006@cs.bham.ac.uk
+End
+CV 2
+Surname:Hopper
+First Name:Grace
+Address:1010 de Bug Way
+Qualification:Degree in Computer Science
+Position:Computer programmer
+Experience:21
+eMail:bug@navy.gov.us
+End
+CV 3
+Surname:Turing
+First Name:Alan
+Address:8 Bletchley Park
+Qualification:Masters in Computer Science
+Position:Computer programmer
+Experience:8
+eMail:a.turning@manchester.ac.uk
+End
+CV 4
+Surname:Lovelace
+First Name:Ada
+Address:10 Byron Lane
+Qualification:Degree in Computer Science
+Position:Programmer
+Experience:10
+eMail:lovelace@analytical_engine.co.uk
+End
+CV 5
+Surname:Dijkstra
+First Name:Edsger
+Address:72 Shunting Yard
+Qualification:Masters in Computer Science
+Position:Programmer
+Experience:8
+eMail:e.w.dijkstra@tue.nl
+End
+CV 6
+Surname:Boole
+First Name:George
+Address:Western Road
+Qualification:School Certificate
+Position:Researcher
+Experience:7
+eMail:logicGeek@colaiste-na-hollscoile-Corcaigh.ie
+End
+CV 7
+Surname:Knuth
+First Name:Donald
+Address:2e Latex Lane
+Qualification:Masters in Computer Science
+Position:Programmer
+Experience:8
+Position:Data Analyst
+Experience:18
+eMail:knuth.shell@TeX.com
+End
+CV 8
+Surname:Jackson
+First Name:Mary
+Address:Mary W Jackson NASA Headquarters
+Qualification:BA Mathematics and Physics
+Position:Mathematician
+Experience:34
+eMail:hidden-figure-mwj@nasa.gov
+End
+CV 9
+Surname:Johnson-Vaughan
+First Name:Dorothy Jean
+Address:Office 8802 Langley Research Center
+Qualification:BA Mathematics
+Position:Programmer
+Experience:28
+eMail:i.also.count@langley.nasa.gov
+End
